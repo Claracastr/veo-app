@@ -1,0 +1,1 @@
+{"name":"veo-mock-api","version":"0.1.0","private":true,"scripts":{"start":"node server.js","test":"node --test server.test.js"},"engines":{"node":">=18"}}
